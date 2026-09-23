@@ -1,0 +1,6 @@
+{
+  "name": "Lodestar PR title check",
+  "description": "Enforces Conventional Commits on pull request titles, which become squash-merge commit messages.",
+  "iconName": "octicon git-pull-request",
+  "categories": ["Automation"]
+}

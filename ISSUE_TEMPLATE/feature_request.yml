@@ -1,0 +1,30 @@
+name: Feature request
+description: Propose a new capability or a change in behavior.
+title: "feat: "
+labels: ["type: feature", "status: triage"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What problem are you trying to solve? Describe the situation, not the solution.
+      placeholder: "When triaging findings across 40 repositories, I can't tell which ones are actively exploited…"
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed solution
+      description: How you would like it to work.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: Other approaches or tools you evaluated, and why they fall short.
+  - type: textarea
+    id: success
+    attributes:
+      label: How would we know it works?
+      description: A measurable outcome, e.g. "false-positive gate blocks drop below 5%".

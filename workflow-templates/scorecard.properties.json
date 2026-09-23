@@ -1,0 +1,6 @@
+{
+  "name": "Lodestar OpenSSF Scorecard",
+  "description": "Weekly OpenSSF Scorecard supply-chain analysis, published to code scanning and the Scorecard API.",
+  "iconName": "octicon checklist",
+  "categories": ["Security"]
+}

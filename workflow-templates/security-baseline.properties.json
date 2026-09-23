@@ -1,0 +1,6 @@
+{
+  "name": "Lodestar security baseline",
+  "description": "Trivy scan for vulnerable dependencies, leaked secrets, and IaC misconfigurations. Uploads to code scanning and fails on fixable HIGH/CRITICAL findings.",
+  "iconName": "octicon shield-check",
+  "categories": ["Security"]
+}

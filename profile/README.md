@@ -18,11 +18,11 @@ Each product here is an independent service that solves one problem security and
 
 | Product | Problem it solves | Status |
 |---|---|---|
-| **risk-exception-registry** | Security exceptions live in spreadsheets and never expire. A workflow to request, approve, expire, and audit risk acceptances — with an immutable audit trail. | 📋 Planned |
-| **vuln-sla-tracker** | Findings from many scanners, no ownership, no deadlines. De-duplicates findings, prioritizes by EPSS and CISA KEV, assigns owners, and tracks remediation SLAs. | 📋 Planned |
-| **sbom-inventory** | "A new CVE just dropped — which of our services are affected?" Ingests CycloneDX/SPDX SBOMs and answers that in seconds. | 📋 Planned |
-| **compliance-evidence** | Audit season means screenshots. Continuously collects control evidence (branch protection, reviews, 2FA) and maps it to CIS / ISO 27001 controls. | 📋 Planned |
-| **secret-inventory** | Nobody knows where secrets live or when they were last rotated. Tracks location, owner, and rotation age — never the secret values. | 📋 Planned |
+| **risk-exception-registry** | Security exceptions live in spreadsheets and never expire. A workflow to request, approve, expire, and audit risk acceptances — with an immutable audit trail. | Planned |
+| **vuln-sla-tracker** | Findings from many scanners, no ownership, no deadlines. De-duplicates findings, prioritizes by EPSS and CISA KEV, assigns owners, and tracks remediation SLAs. | Planned |
+| **sbom-inventory** | "A new CVE just dropped — which of our services are affected?" Ingests CycloneDX/SPDX SBOMs and answers that in seconds. | Planned |
+| **compliance-evidence** | Audit season means screenshots. Continuously collects control evidence (branch protection, reviews, 2FA) and maps it to CIS / ISO 27001 controls. | Planned |
+| **secret-inventory** | Nobody knows where secrets live or when they were last rotated. Tracks location, owner, and rotation age — never the secret values. | Planned |
 
 ### How we build
 

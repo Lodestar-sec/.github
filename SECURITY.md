@@ -9,7 +9,7 @@ This policy applies to every repository in the Lodestar Security organization un
 Report privately through GitHub:
 
 1. Open the affected repository.
-2. Go to **Security → Advisories → Report a vulnerability**.
+2. Go to **Security → Advisories → Report a vulnerability** — for example, `https://github.com/Lodestar-sec/<repository>/security/advisories/new`. GitHub's guide: https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing-information-about-vulnerabilities/privately-reporting-a-security-vulnerability
 3. Include as much of the following as you can:
    - Affected product, version, or commit
    - Type of issue (e.g. injection, authentication bypass, supply-chain)
